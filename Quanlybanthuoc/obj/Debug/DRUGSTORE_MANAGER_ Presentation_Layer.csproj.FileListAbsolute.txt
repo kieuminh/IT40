@@ -1,0 +1,265 @@
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe.config
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.pdb
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.Shared.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\stdole.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.pdb
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.pdb
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.pdb
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll.config
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.AssemblyReference.cache
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmAccountDetails.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillDetail.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillManager.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCountry.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerManager.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerSearch.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSearch.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSell.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeManager.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugManager.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeSearch.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmQuantityPerUnit.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmExpiredDrugsStatistics.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmIncomeStatistics.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmLogin.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmMenu.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierManager.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierSearch.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmThongkeloaithuoc.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.Properties.Resources.resources
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.GenerateResource.cache
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CoreCompileInputs.cache
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CopyComplete
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.exe
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.pdb
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe.config
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.pdb
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\stdole.dll
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.pdb
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.pdb
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.pdb
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll.config
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmAccountDetails.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillDetail.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillManager.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCountry.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerManager.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerSearch.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSearch.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSell.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeManager.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugManager.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeSearch.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmQuantityPerUnit.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmExpiredDrugsStatistics.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmIncomeStatistics.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmLogin.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmMenu.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierManager.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierSearch.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmThongkeloaithuoc.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.exe
+C:\Users\user\OneDrive\Desktop\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.pdb
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe.config
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.pdb
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\stdole.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.pdb
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.pdb
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.pdb
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll.config
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.AssemblyReference.cache
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmAccountDetails.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillDetail.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillManager.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCountry.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerManager.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerSearch.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSearch.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSell.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeManager.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugManager.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeSearch.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmQuantityPerUnit.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmExpiredDrugsStatistics.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmIncomeStatistics.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmLogin.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmMenu.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierManager.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierSearch.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmThongkeloaithuoc.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.Properties.Resources.resources
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.GenerateResource.cache
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CoreCompileInputs.cache
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CopyComplete
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.exe
+D:\Quanlybanthuoc\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.pdb
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe.config
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.pdb
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\stdole.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.pdb
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.pdb
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.pdb
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll.config
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.AssemblyReference.cache
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmAccountDetails.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillDetail.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillManager.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCountry.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerManager.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerSearch.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSearch.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSell.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeManager.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugManager.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeSearch.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmQuantityPerUnit.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmExpiredDrugsStatistics.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmIncomeStatistics.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmLogin.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmMenu.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierManager.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierSearch.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmThongkeloaithuoc.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.Properties.Resources.resources
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.GenerateResource.cache
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CoreCompileInputs.cache
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CopyComplete
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.exe
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe.config
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.exe
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Quanlybanthuoc.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.Shared.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\AxShockwaveFlashObjects.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\ShockwaveFlashObjects.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\stdole.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Business_Tier.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Entities.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\bin\Debug\Data_Tier.dll.config
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmAccountDetails.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillDetail.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmBillManager.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCountry.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerManager.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmCustomerSearch.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSearch.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugSell.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeManager.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmDrugManager.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmEmployeeSearch.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmQuantityPerUnit.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmExpiredDrugsStatistics.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmIncomeStatistics.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmLogin.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmMenu.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierManager.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmSupplierSearch.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.frmThongkeloaithuoc.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.Properties.Resources.resources
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.GenerateResource.cache
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CoreCompileInputs.cache
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.CopyComplete
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.exe
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\Quanlybanthuoc.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Quanlybanthuoc\obj\Debug\DRUGSTORE_MANAGER_ Presentation_Layer.csproj.AssemblyReference.cache

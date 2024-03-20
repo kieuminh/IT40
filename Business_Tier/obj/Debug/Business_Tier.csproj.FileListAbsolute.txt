@@ -1,0 +1,105 @@
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.dll
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll.config
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csprojAssemblyReference.cache
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CoreCompileInputs.cache
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CopyComplete
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.pdb
+T:\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.dll
+T:\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.pdb
+T:\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll
+T:\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.dll
+T:\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.pdb
+T:\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.pdb
+T:\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+T:\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.dll
+T:\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.dll
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll.config
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csprojAssemblyReference.cache
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CoreCompileInputs.cache
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CopyComplete
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\vtpga\Desktop\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.pdb
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.dll
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.dll
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.pdb
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll.config
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.pdb
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csprojAssemblyReference.cache
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CoreCompileInputs.cache
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CopyComplete
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.dll
+E:\Tài Liệu\Tài liệu năm 3( 2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.pdb
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.dll
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.dll
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.pdb
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll.config
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.pdb
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csprojAssemblyReference.cache
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CoreCompileInputs.cache
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CopyComplete
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.dll
+E:\Tài Liệu\Năm 3 - HKI (2019 - 2020)\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.pdb
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Business_Tier.pdb
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.pdb
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Data_Tier.dll.config
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\bin\Debug\Entities.pdb
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.AssemblyReference.cache
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CoreCompileInputs.cache
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.csproj.CopyComplete
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.dll
+D:\PTUD_QUANLYQUAYTHUOC_CSHARP-master\PTUD_QUANLYQUAYTHUOC_CSHARP-master\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\DOAN_PTUD_DRUGSTORE_MANAGER_NHOM9\Business_Tier\obj\Debug\Business_Tier.pdb
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\bin\Debug\Business_Tier.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\bin\Debug\Business_Tier.pdb
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\bin\Debug\Data_Tier.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\bin\Debug\Entities.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\bin\Debug\Data_Tier.pdb
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\bin\Debug\Data_Tier.dll.config
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\bin\Debug\Entities.pdb
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.csproj.AssemblyReference.cache
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.csproj.CoreCompileInputs.cache
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.csproj.CopyComplete
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.dll
+D:\Quanlybanthuoc\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\bin\Debug\Entities.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\bin\Debug\Data_Tier.dll.config
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.csproj.AssemblyReference.cache
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.csproj.CoreCompileInputs.cache
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.csproj.CopyComplete
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\TSC\Desktop\Quanlybanthuoc (1)\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.csproj.AssemblyReference.cache
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.csproj.CoreCompileInputs.cache
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\bin\Debug\Business_Tier.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\bin\Debug\Data_Tier.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\bin\Debug\Entities.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\bin\Debug\Data_Tier.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\bin\Debug\Data_Tier.dll.config
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\bin\Debug\Entities.pdb
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.csproj.CopyComplete
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.dll
+E:\HocTap\IT40\IT40.007_NMCNPM_NhomG01_De05\Quanlybanthuoc\Business_Tier\obj\Debug\Business_Tier.pdb
